@@ -41,6 +41,6 @@ Model performance was rigorously validated across four strict statistical error 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `Economic_Uncertainty_Forecasting.ipynb` - Full Jupyter Notebook containing the end-to-end Python implementation (Data ingestion, EDA plots, Model training, Evaluation metrics, and Summary visualizations).
 - `README.md` - Research overview and quantitative summary.
